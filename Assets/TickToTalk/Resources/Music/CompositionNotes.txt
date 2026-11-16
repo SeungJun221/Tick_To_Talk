@@ -1,0 +1,22 @@
+Original music composed and synthesized for Tick To Talk. No vocals, samples, or third-party recordings.
+Lobby: Locked Glass — 72 BPM, D minor, restrained bells and dark suspended pads.
+Gameplay: Countdown Circuit — 104 BPM, D minor, clockwork ostinato, muted pulse and low percussion.
+Both tracks are 16-bar stereo loops.
+[
+  {
+    "name": "Lobby_LockedGlass",
+    "bpm": 72,
+    "seconds": 53.33334375,
+    "peak": 0.65,
+    "rms": 0.18964547004458124,
+    "loop_delta": 0.003053512084149834
+  },
+  {
+    "name": "Gameplay_CountdownCircuit",
+    "bpm": 104,
+    "seconds": 36.9230625,
+    "peak": 0.65,
+    "rms": 0.11048574393161446,
+    "loop_delta": 0.003739730419122983
+  }
+]
